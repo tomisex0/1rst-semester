@@ -8,7 +8,7 @@ int main()
     int bandera = 1;
 
     while (bandera)
-    { // Asensor personal, para persona  millonaria que necesita su asensor propio en su edificio
+    { // Asensor personal, para persona  que necesita su asensor propio en su edificio
 
         printf("\nSeleccione su option: \n 1.Llamar al ascensor \n 2.Salir \n");
         scanf("%i", &option);
